@@ -114,13 +114,7 @@ nav li a{
 
 footer{
     background: rgba(246, 249, 250, 1);
-    
-}
-
-.main-footer{
-    
     padding: 4rem 1.5rem 2rem 1.5rem;
-
     
 }
 
@@ -273,7 +267,11 @@ figcaption{
     .icon{
         width: 40%;
     }
-
+    
+    footer{
+    padding: 0;
+    
+}
     
 
 
